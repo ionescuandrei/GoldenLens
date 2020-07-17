@@ -21,12 +21,6 @@ import DemoFooter from "components/Footers/DemoFooter.js";
 function ProfilePage() {
   const [activeTab, setActiveTab] = React.useState("1");
 
-  const toggle = (tab) => {
-    if (activeTab !== tab) {
-      setActiveTab(tab);
-    }
-  };
-
   document.documentElement.classList.remove("nav-open");
   React.useEffect(() => {
     document.body.classList.add("landing-page");

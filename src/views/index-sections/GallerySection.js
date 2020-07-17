@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 import React from "react";
-import ReactDOM from "react-dom";
 import Gallery from "react-grid-gallery";
 
 export default class GalerySection extends React.Component {
