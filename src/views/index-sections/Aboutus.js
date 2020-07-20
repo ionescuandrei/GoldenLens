@@ -87,7 +87,7 @@ export default function AboutUs() {
               </a>
               <p className="card-description text-center">
                 Salut. Numele meu este Ionuț, pasiunea pentru videografia de
-                nunta am dobandit-o incepand cu 2005. De atunci incerc mereu sa
+                nunta am dobandit-o incepand cu 2017. De atunci incerc mereu sa
                 perfectionez stilul de filmare si montaj. Imi place sa ne
                 aventuram in orice tip de proiect si in afara sferei de filmari
                 de nunta sau botez. Imbratisam cu drag si filmarea de evenimente
