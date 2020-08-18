@@ -26,9 +26,9 @@ function Index() {
       <IndexNavbar />
       <IndexHeader />
       <div className="main">
-        <Aboutus />
         <SectionDark />
         <SectionExamples />
+        <Aboutus />
         <DemoFooter />
       </div>
     </>

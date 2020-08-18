@@ -27,11 +27,6 @@ function DemoFooter() {
                   />
                 </a>
               </li>
-              <li>
-                <a href="https://www.creative-tim.com/license?ref=pkr-footer">
-                  Portofoliu
-                </a>
-              </li>
             </ul>
           </nav>
           <div className="credits ml-auto">

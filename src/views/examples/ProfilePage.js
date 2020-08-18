@@ -58,7 +58,7 @@ function ProfilePage() {
               <br />
               <h1 className="title">Contact</h1>
               <h4>Telefon : 0768370788 </h4>
-              <h4>Email: ofiice@goldenlens.ro</h4>
+              <h4>Email: office@goldenlens.ro</h4>
             </Col>
           </Row>
           <Row>
